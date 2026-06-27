@@ -1,6 +1,6 @@
-# Forked from Tango see there readme below
+## Forked from Tango see there readme below
 
-#Demo (deprecated)
+## Demo (deprecated)
 
 This is the now deprecated demo project for `@yume-chan/adb` package. It won't be updated, but it still mostly reflects the current API.
 
