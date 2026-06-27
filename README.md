@@ -1,4 +1,4 @@
-## Forked from Tango see there readme below
+## Forked from Tango see their readme below
 
 ## Demo (deprecated)
 
